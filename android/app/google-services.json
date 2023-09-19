@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "909370437854",
+    "project_id": "faqar-94362",
+    "storage_bucket": "faqar-94362.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909370437854:android:bab50a7e96744e613fd24f",
+        "android_client_info": {
+          "package_name": "com.example.facar_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909370437854-5j4tnfr1iagr6nvthupl4p5dlemic2f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP5lUgy5yxpoGyNor0wL5gbfhb3qNfrn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909370437854-5j4tnfr1iagr6nvthupl4p5dlemic2f5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
