@@ -1,16 +1,5 @@
 # facar_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+e-commerce app
+The app issue where the app was unable to access WhatsApp messages to order products was resolved by adding any URL schemes passed to canLaunchUrl as <queries> entries in the app's AndroidManifest.xml file.
+<action android:name="android.intent.action.VIEW" />
+     <data android:scheme="sms" />
